@@ -1,6 +1,3 @@
-Creating a README file for your GitHub repository is essential to provide an overview of your project, its purpose, how to use it, and any other pertinent information for potential users or collaborators. Below is a template for a README file tailored to your car counting project:
-
----
 
 # Car Counting using YOLO and SORT
 
